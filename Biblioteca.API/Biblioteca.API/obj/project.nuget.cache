@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WS21C6guhl/9v0ocH3RidlnJ2DyOchOhDtWTo3ct3DVHzRYf4i3ROq4fwp38Psq4ZxFu/H4gLiIPx5oMmo+Krw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toshiba\\Documents\\Software Empresarial - PM190654\\Laboratorio_04\\Biblioteca.API\\Biblioteca.API\\Biblioteca.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Toshiba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
